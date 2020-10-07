@@ -20,21 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="084d074b-aeba-4323-8faf-3d0c39c0b2f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/resources/cardtable.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kodilla-exception/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kodilla-exception/src/main/java/com/kodilla/exception/index/IndexExceptionRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kodilla-exception/src/main/java/com/kodilla/exception/index/VideoCollector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kodilla-exception/src/main/java/com/kodilla/exception/nullpointer/MessageNotSentException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kodilla-exception/src/main/java/com/kodilla/exception/nullpointer/MessageSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kodilla-exception/src/main/java/com/kodilla/exception/nullpointer/NullPointerExceptionRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kodilla-exception/src/main/java/com/kodilla/exception/nullpointer/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kodilla-exception/src/main/java/com/kodilla/exception/test/Flight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kodilla-exception/src/main/java/com/kodilla/exception/test/RouteNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kodilla-exception/src/main/resources/file/names.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Blackjack/com/company/Blackjack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Blackjack/com/company/Blackjack.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Blackjack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Blackjack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +105,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598551018454</updated>
-      <workItem from="1598551025357" duration="12353000" />
+      <workItem from="1598551025357" duration="13091000" />
+      <workItem from="1599464509537" duration="5638000" />
+      <workItem from="1600261540476" duration="2588000" />
+      <workItem from="1602080522404" duration="318000" />
     </task>
     <servers />
   </component>
@@ -134,8 +125,17 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="515" y="108" key="#Images" timestamp="1599484327458">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="515" y="108" key="#Images/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1599484327458" />
+    <state x="545" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599484274522">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="545" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1599484274522" />
     <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser" timestamp="1598556839113">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -144,22 +144,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="473" y="154" key="FileChooserDialogImpl/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1598560099931" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1598563453430">
+    <state width="1493" height="39" key="GridCell.Tab.0.bottom" timestamp="1599485340657">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1598563453430" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1598563453430">
+    <state width="1493" height="39" key="GridCell.Tab.0.bottom/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1599485340657" />
+    <state width="1493" height="39" key="GridCell.Tab.0.center" timestamp="1599485340657">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1598563453430" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1598563453429">
+    <state width="1493" height="39" key="GridCell.Tab.0.center/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1599485340657" />
+    <state width="1493" height="39" key="GridCell.Tab.0.left" timestamp="1599485340657">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1598563453429" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1598563453430">
+    <state width="1493" height="39" key="GridCell.Tab.0.left/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1599485340657" />
+    <state width="1493" height="39" key="GridCell.Tab.0.right" timestamp="1599485340657">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1598563453430" />
+    <state width="1493" height="39" key="GridCell.Tab.0.right/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1599485340657" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1599482525975">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1599482525975" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1599482525975">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1599482525975" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1599482525975">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1599482525975" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1599482525975">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1599482525975" />
     <state x="249" y="0" key="SettingsEditor" timestamp="1598559380218">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

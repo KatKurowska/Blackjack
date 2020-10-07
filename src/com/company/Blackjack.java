@@ -1,8 +1,10 @@
 package com.company;
 import javafx.application.Application;
+import javafx.geometry.Orientation;
 import javafx.scene.Group;
 import javafx.scene.Scene;
 import javafx.scene.image.Image;
+import javafx.scene.image.ImageView;
 import javafx.scene.layout.*;
 import javafx.scene.paint.Color;
 import javafx.scene.shape.Rectangle;
@@ -14,7 +16,10 @@ import javafx.stage.Stage;
 
 public class Blackjack extends Application {
 
-    private Image imageback = new Image("file:resources/cardtable.jpg");
+    private Image imageback = new Image("file:C:\\Users\\katak\\IdeaProjects\\kodilla-course\\Blackjack\\src\\com\\company\\resources/cardtable.jpg");
+// adding new file "file: FULL PATH MUST BE THERE")
+    private Image card = new Image("file:C:\\Users\\katak\\IdeaProjects\\kodilla-course\\Blackjack\\src\\com\\company\\resources\\2C.jpg");
+    private FlowPane cards = new FlowPane(Orientation.HORIZONTAL);
 
     public static void main (String[] args) {
         launch(args);
@@ -29,6 +34,11 @@ public class Blackjack extends Application {
 
         GridPane grid = new GridPane();
         grid.setBackground(background);
+
+        ImageView img = new ImageView(card);
+        cards.getChildren().add(img);
+
+        grid.add(cards, 0, 0, 3, 1);
 
         Scene scene = new Scene(grid, 1600,900, Color.BLACK);
 
